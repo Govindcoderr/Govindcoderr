@@ -7,27 +7,14 @@ I’m a passionate **Java Full Stack Developer** with expertise in **High-Level 
 ### 🔧 **Technologies & Tools**
 
 #### 🚀 **Backend Skills**
-- **Languages**: Java, Spring Framework, Spring Boot, Hibernate, Microservices
+- **Languages**: Java, python,
 - **APIs**: RESTful APIs
 - **Design Patterns**: Singleton, Factory, Observer, Builder, CQRS, SAGA, etc.
 
 #### 🎨 **Frontend Skills**
-- **Frameworks/Libraries**: React, Angular, Next.js
+- **Frameworks/Libraries**: React
 - **Languages**: HTML, CSS, JavaScript
 
-#### 🛠 **DevOps Skills**
-- **Containerization**: Docker, Kubernetes
-- **CI/CD**: Jenkins, CI/CD pipelines
-- **Cloud Platforms**:
-  - **AWS Services**: 
-    - EC2 (Elastic Compute Cloud)
-    - 
-- **Other Tools**: JFrog, Prometheus, Grafana
-
-#### ⚡ **Apache Tools**
-- **Apache Kafka**: Distributed streaming platform for building real-time data pipelines and streaming applications.
-- **Apache Camel**: Integration framework for routing and mediation rules, enabling communication between different systems.
-- **Apache JMeter**: Performance testing tool for web applications, APIs, and other services.
 
 ---
 
