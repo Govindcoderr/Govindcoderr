@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Govind singh</h1>
 
 <div align="center">
- <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
+ <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;java+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
 </div>
 <h2 align="center">Entry-level Software Engineer skilled in Java, Python, and web development. Experienced in full project
 lifecycle, debugging, and teamwork. Motivated to contribute impactful software solutions and grow
@@ -62,23 +62,6 @@ through mentorship and continuous learni</h2>
 <table>
  <tr>
   <td>
-  <img src="https://raw.githubusercontent.com/silofy/hackthebox/master/static/hero.png"/>
-   <p align="center">
-    Hackthebox
-   </p>
-  </td>
-  <td>
-  
-    <p align="center">
-    Cobalt 2
-   </p>
-  </td>
- </tr>
- </table>
-
-<table>
- <tr>
-  <td>
    <p align="center">
     <a href="https://github.com/govindcoderr/github-readme-streak-stats">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
@@ -88,11 +71,11 @@ through mentorship and continuous learni</h2>
   </td>
   <td>
    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehfoozkhangithub&layout=compact&theme=github_dark&hide_border=true)](https://github.com/mehfoozkhangithub)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=govindcoderrgithub&layout=compact&theme=github_dark&hide_border=true)](https://github.com/govindcoderrgithub)
   </td>
   <td>
    
-   ![mehfoozkhangithub stats](https://github-readme-stats.vercel.app/api?username=mehfoozkhangithub&theme=dark&show_icons=true)
+   ![govindcoderrgithub stats](https://github-readme-stats.vercel.app/api?username=govindcoderrgithub&theme=dark&show_icons=true)
    </td>
  </tr>
 </table>
@@ -101,10 +84,6 @@ through mentorship and continuous learni</h2>
 
 
 <div align="center">
- 
- 
-
-<img  align="center" src="https://github-profile-trophy.vercel.app/?username=govindcoderrgithub&theme=juicyfresh&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" alt="tophygithub" />
 
 <p align="center"> 
   <img src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif?raw=true" alt="Sample signal" width="70%" height="70%" />
@@ -133,7 +112,7 @@ through mentorship and continuous learni</h2>
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=mehfoozkhangithub&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 
     
