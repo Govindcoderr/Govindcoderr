@@ -59,11 +59,11 @@ through mentorship and continuous learni</h2>
 
 # Favourite `VSCODE` **Theme** 
 
-<table>
+  <table>
  <tr>
   <td>
    <p align="center">
-    <a href="https://github.com/govindcoderr/github-readme-streak-stats">
+    <a href="https://github.com/mehfoozkhangithub/github-readme-streak-stats">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
     </a>
 </p>
@@ -71,11 +71,11 @@ through mentorship and continuous learni</h2>
   </td>
   <td>
    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=govindcoderrgithub&layout=compact&theme=github_dark&hide_border=true)](https://github.com/govindcoderrgithub)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehfoozkhangithub&layout=compact&theme=github_dark&hide_border=true)](https://github.com/mehfoozkhangithub)
   </td>
   <td>
    
-   ![govindcoderrgithub stats](https://github-readme-stats.vercel.app/api?username=govindcoderrgithub&theme=dark&show_icons=true)
+   ![mehfoozkhangithub stats](https://github-readme-stats.vercel.app/api?username=mehfoozkhangithub&theme=dark&show_icons=true)
    </td>
  </tr>
 </table>
