@@ -32,45 +32,53 @@ Entry-level software engineer with hands-on experience in full-stack web develop
 </p>
 
 
-## 👨‍💻 Tech Stack I am Familiar With
 
-<p align="center">
-<br/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:2px;"/> 
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
- <img alt="Redux" src="https://img.shields.io/badge/Redux-764abc?logo=Redux&logoColor=white&style=for-the-badge" />
- <img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS-fff?logo=Tailwindcss&logoColor=blue&style=for-the-badge" />
- <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
- <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
- <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"/>
- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
- <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
- <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
- <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
- <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)"/>
- <img src="https://img.shields.io/badge/Typescript.js-white?style=for-the-badge&logo=typescript&logoColor=white)"/>
+## 👨‍💻 Tech Stack I Am Familiar With
 
+<div align="center">
+
+### 🚀 Frontend
+
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Chakra%20UI-319795?logo=chakraui&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/React Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge" />
 
 <br/>
-</p>
 
-# Favourite `VSCODE` **Theme** 
-## 💻 Favorite VS Code Theme
+### 💾 Backend
 
-I love using **One Dark Pro** – it's clean, dark, and great for long coding sessions.
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge" />
 
-![One Dark Pro Theme](https://raw.githubusercontent.com/saadeghi/one-dark-pro/main/media/preview.png)
+<br/>
 
+### 🛠 Tools & Utilities
 
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" />
 
+<br/>
 
+### 🧠 Programming Languages
+
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+
+</div>
+
+### GitHub Stats Layout
 <table>
   <tr>
     <td>
@@ -81,7 +89,7 @@ I love using **One Dark Pro** – it's clean, dark, and great for long coding se
     <td>
       <img alt="Top Languages"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govindcoderr&layout=compact&theme=github_dark&hide_border=true"
-        width="400" />
+        width="500" />
     </td>
     <td>
       <img alt="GitHub Stats"
@@ -98,7 +106,7 @@ I love using **One Dark Pro** – it's clean, dark, and great for long coding se
 <div align="center">
 
 <p align="center"> 
-  <img src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif?raw=true" alt="Sample signal" width="70%" height="70%" />
+  <img src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif?raw=true" alt="Sample signal" width="80%" height="50%" />
 </p>
 </div>
 
