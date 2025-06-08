@@ -62,25 +62,36 @@ Entry-level software engineer with hands-on experience in full-stack web develop
 </p>
 
 # Favourite `VSCODE` **Theme** 
+## 💻 Favorite VS Code Theme
 
-  <table>
- <tr>
-  <td>
-   <p align="center">
-  <img title="🔥 GitHub Streak" alt="Govind's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindcoderr&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
-</p>
+I love using **One Dark Pro** – it's clean, dark, and great for long coding sessions.
 
-</p>
-  
-  </td>
-  <td>
-   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Govindcoderr&layout=compact&theme=github_dark&hide_border=true)](https://github.com/Govindcoderr)
+![One Dark Pro Theme](https://raw.githubusercontent.com/saadeghi/one-dark-pro/main/media/preview.png)
 
-  </td>
- </tr>
+
+
+
+<table>
+  <tr>
+    <td>
+      <img title="🔥 GitHub Streak" alt="Govind's streak"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Govindcoderr&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"
+        width="450" />
+    </td>
+    <td>
+      <img alt="Top Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govindcoderr&layout=compact&theme=github_dark&hide_border=true"
+        width="400" />
+    </td>
+    <td>
+      <img alt="GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=Govindcoderr&show_icons=true&theme=dark&hide_border=true"
+        width="500" />
+    </td>
+  </tr>
 </table>
- 
+
+
 
 
 
