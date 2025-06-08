@@ -1,17 +1,21 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Govind singh</h1>
+<h1 align="center">Hi 👋, I'm Govind Singh</h1>
 
 <div align="center">
- <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;java+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+%7C+Python+Programmer;React+%7C+Java+Stack+Learner;Problem+Solver;Self+Motivated;&center=true&color=cyan" />
 </div>
-<h2 align="center">Entry-level Software Engineer skilled in Java, Python, and web development. Experienced in full project
-lifecycle, debugging, and teamwork. Motivated to contribute impactful software solutions and grow
-through mentorship and continuous learni</h2>
+
+<h3 align="center">🚀 Software Engineer | Java Enthusiast | Java Full Stack Developer</h3>
+
+<p align="center">
+Entry-level software engineer with hands-on experience in full-stack web development. Passionate about building clean and efficient applications with modern technologies like React, Node.js, and Java. Focused on continuous learning and writing meaningful code.
+</p>
+
 
 
 - 🌱 I’m currently learning **react, redux, mongo-db, node.js,express.js**
 
-- 👨‍💻 All of my projects are available at ***[click me]()***
+- - 👨‍💻 Explore my projects here: [📂 GitHub Repositories »](https://github.com/Govindcoderr?tab=repositories)
 
 - 💬 Ask me about **react / java script / redux**
 
@@ -63,15 +67,16 @@ through mentorship and continuous learni</h2>
  <tr>
   <td>
    <p align="center">
-    <a href="https://github.com/mehfoozkhangithub/github-readme-streak-stats">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
-    </a>
+  <img title="🔥 GitHub Streak" alt="Govind's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindcoderr&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+</p>
+
 </p>
   
   </td>
   <td>
    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehfoozkhangithub&layout=compact&theme=github_dark&hide_border=true)](https://github.com/mehfoozkhangithub)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Govindcoderr&layout=compact&theme=github_dark&hide_border=true)](https://github.com/Govindcoderr)
+
   </td>
  </tr>
 </table>
@@ -107,6 +112,8 @@ through mentorship and continuous learni</h2>
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+---
+<p align="center">💻 Made with ❤️ by Govind Singh</p>
 
 
 
