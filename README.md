@@ -19,7 +19,7 @@ Entry-level software engineer with hands-on experience in full-stack web develop
 
 - 💬 Ask me about **react / java script / redux**
 
-- 📄 Know about my experiences ***[(Resume Here)]()***
+- 📄 Know about my experiences ***[(Resume Here)](https://govindcoderr.github.io/Govind-CV/)***
 
 - 📫 How to reach me ***govindcoderr@gmail.com***
 
