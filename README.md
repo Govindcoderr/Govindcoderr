@@ -132,7 +132,7 @@ Entry-level software engineer with hands-on experience in full-stack web develop
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 ---
-<p align="center">💻 Made with ❤️ by Govind Singh</p>
+<p align="center">💻 By Govind Singh</p>
 
 
 
