@@ -5,7 +5,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+%7C+Python+Programmer;React+%7C+Java+Stack+Learner;Problem+Solver;Self+Motivated;&center=true&color=cyan" />
 </div>
 
-<h3 align="center">🚀 Software Engineer | Java Enthusiast | Java Full Stack Developer</h3>
+<h3 align="center">🚀 Software Engineer | AI/ML Enthusiast |  Full Stack Developer</h3>
 
 <p align="center">
 Entry-level software engineer with hands-on experience in full-stack web development. Passionate about building clean and efficient applications with modern technologies like React, Node.js, and Java. Focused on continuous learning and writing meaningful code.
