@@ -8,16 +8,8 @@
 <h3 align="center">🚀 Software Engineer | AI/ML Enthusiast |  Full Stack Developer</h3>
 
 <p align="center">
-Entry-level software engineer with hands-on experience in full-stack web development. Passionate about building clean and efficient applications with modern technologies like React, Node.js, and Java. Focused on continuous learning and writing meaningful code.
+Entry-level software engineer with hands-on experience in full-stack development. Passionate about building clean and efficient applications with modern technologies like AI/ML, and Java. Focused on continuous learning and writing meaningful code.
 </p>
-
-
-
-- 🌱 I’m currently learning **react, redux, mongo-db, node.js,express.js**
-
-- - 👨‍💻 Explore my projects here: [📂 GitHub Repositories »](https://github.com/Govindcoderr?tab=repositories)
-
-- 💬 Ask me about **react / java script / redux**
 
 - 📄 Know about my experiences ***[(Resume Here)](https://govindcoderr.github.io/Govind-CV/)***
 
@@ -43,10 +35,8 @@ Entry-level software engineer with hands-on experience in full-stack web develop
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Chakra%20UI-319795?logo=chakraui&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/React Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge" />
+
 
 <br/>
 
@@ -54,7 +44,7 @@ Entry-level software engineer with hands-on experience in full-stack web develop
 
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/python-59666C?logo=hibernate&logoColor=white&style=for-the-badge" />
 
 <br/>
 
@@ -135,8 +125,11 @@ Entry-level software engineer with hands-on experience in full-stack web develop
 
 <div align="center">
   <p align="center">💻 By Govind Singh</p>
+  <p align="center" > 
   <a href="https://www.linkedin.com/in/govindrajpurohit/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&style=for-the-badge" alt="LinkedIn - govind singh " />
   <img src="https://komarev.com/ghpvc/?username=govindcoderr&style=flat-square&color=blue" alt=""/>
+  </p>
+  
 </div>
 
 
