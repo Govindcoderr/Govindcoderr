@@ -132,7 +132,15 @@ Entry-level software engineer with hands-on experience in full-stack web develop
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 ---
-<p align="center">💻 By Govind Singh</p>
+
+<div align="center">
+  <p align="center">💻 By Govind Singh</p>
+  <a href="https://www.linkedin.com/in/govindrajpurohit/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&style=for-the-badge" alt="LinkedIn - govind singh " />
+  <img src="https://komarev.com/ghpvc/?username=govindcoderr&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+
 
 
 
